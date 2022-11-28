@@ -1,4 +1,6 @@
-﻿#include <Windows.h>
+﻿//original source: https://github.com/dmicha16/simple_serial_port/tree/master/simple-serial-port
+
+#include <Windows.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <iostream>
