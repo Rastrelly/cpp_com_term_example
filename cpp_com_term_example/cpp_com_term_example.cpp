@@ -243,7 +243,6 @@ int main()
 		if (mode == 2)
 		{
 			string data = "";
-			cout << "Trying to read data...\n";
 			data = simSer->ReadSerialPort(1, "json");
 			if (data != "")
 			{
